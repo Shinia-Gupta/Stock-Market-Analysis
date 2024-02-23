@@ -1,0 +1,124 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: rgb(1, 1, 41);
+  color: white;
+}
+
+#header {
+  height: 10%;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  position: relative;
+  /* margin: 4%; */
+  padding: 20px;
+}
+
+#stock-chart {
+  /* background-color: rgb(34, 34, 34); */
+  background-color: rgb(1, 1, 69);
+  border-radius: 10px;
+  width: 60%;
+  margin-top: 10px;
+  padding-top: 20px;
+  border: 2px solid transparent;
+  border-image: linear-gradient(to right, yellow, limegreen, purple);
+  border-image-slice: 1;
+  animation: fade 5s infinite;
+}
+
+#stock-chart button {
+  background-color: rgb(12, 52, 116);
+
+  font-size: 18px;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  /* margin-right: 40px; */
+  margin-bottom: 10px;
+  margin-left: 120px;
+  margin-top: 20px;
+}
+#chartDiv {
+  margin-top: 10px;
+  padding-top: 10px;
+}
+#stock-chart button:hover {
+  opacity: 1;
+  background-color: rgb(3, 3, 131);
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+
+}
+#summary {
+  margin-top: 20px;
+  width: 60%;
+}
+#summary p {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
+#name {
+
+  font-size: 20px;
+  font-weight: bolder;
+}
+#profit {
+
+  font-size: 20px;
+  font-weight: bolder;
+}
+#bookValue {
+
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#container {
+  display: flex;
+}
+#stock-list {
+  display: flex;
+  flex-direction: column;
+  /* vertical-align: top; */
+  position: absolute;
+  right: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-grow: 1; */
+}
+.list:hover {
+  background-color: rgb(1, 1, 41);
+  cursor: pointer;
+}
+.list span {
+  margin-right: 10px;
+}
+.buttonList {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #010166;
+  border-radius: 10px;
+  color: white;
+  box-shadow: #888;
+  min-width: 80px;
+}
+.buttonList:hover {
+  background-color: #010129;
+  cursor: pointer;
+}
+
