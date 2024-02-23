@@ -12,10 +12,10 @@ This project is a web-based stock market analysis tool built using HTML, CSS, an
 
 ## Preview
 
-[Stock Market Analysis]([image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/6d92b064-6a2f-4c58-977d-c588afc0bd3d)
+[!Stock Market Analysis]([image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/6d92b064-6a2f-4c58-977d-c588afc0bd3d)
 )
 
-[Stock Market Analysis]([image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/b935f05d-9fdc-4d41-b598-cfa986280f8e)
+[!Stock Market Analysis]([image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/b935f05d-9fdc-4d41-b598-cfa986280f8e)
 )
 
 
