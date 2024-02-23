@@ -12,12 +12,9 @@ This project is a web-based stock market analysis tool built using HTML, CSS, an
 
 ## Preview
 
-[!Stock Market Analysis](![image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/6d92b064-6a2f-4c58-977d-c588afc0bd3d)
-)
+![image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/73b0e611-f50d-4579-83fa-4eb829cf381e)
 
-[!Stock Market Analysis](![image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/b935f05d-9fdc-4d41-b598-cfa986280f8e)
-)
-
+![image](https://github.com/Shinia-Gupta/Stock-Market-Analysis/assets/113818197/2b1358f7-2878-4953-b1c8-4627045ff011)
 
 ## Getting Started
 
@@ -45,4 +42,4 @@ Fetch API: Used for making HTTP requests to the stock market API.
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or create a pull request.
 
 ### Live Project
-[Project Live]()
+[Project Live](https://shinia-gupta.github.io/Stock-Market-Analysis/)
